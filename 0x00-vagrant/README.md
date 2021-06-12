@@ -1,0 +1,2 @@
+## My vagrant project
+* Cool
